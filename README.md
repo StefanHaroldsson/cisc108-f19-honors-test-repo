@@ -1,5 +1,6 @@
 # cisc108-f19-honors-test-repo
-Fork me!
+Stefan Haroldsson
 
 # About me
-Add a quick description of yourself down here. No using the Git website! You have to do it from within PyCharm.
+I am a cisc 108 honors student and I have class every tuesday and thursday from 11:00 to 12:15
+
